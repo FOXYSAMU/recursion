@@ -1,4 +1,4 @@
-let arr1 = [1, 2, 9, 6, 7, 8, 3, 4];
+let arr1 = [1, 2, 9, 6, 7, 8, 3, 4]; // Can change value
 // let arr1 = [1, 3, 2, 4];
 
 function mergeSort(arr) {
